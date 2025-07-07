@@ -15,7 +15,7 @@ An interactive Power BI dashboard built to analyze sales, outlet performance, an
 - Clean and professional UI design
 
 ##Dashboard Preview
-![Dashboard](screenshots/blinkit-dashboard-preview.png)
+![Dashboard]([https://github.com/Vamsipriyakatikareddy/blinkit-business-dashboard/blob/main/Screenshotpreview.png])
 
 ##Files Included
 - `Blinkit_Dashboard.pbix` – Power BI file

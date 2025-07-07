@@ -1,4 +1,4 @@
-Blinkit Business Dashboard 📊
+Blinkit Business Dashboard 
 An interactive Power BI dashboard built to analyze sales, outlet performance, and product category insights for Blinkit – India's last-minute delivery app.
 
 #Features
